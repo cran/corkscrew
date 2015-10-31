@@ -1,0 +1,13 @@
+c20155d507448d09dcac922ebaef579a *DESCRIPTION
+220f60ae2917e7081a39a4306047b25e *NAMESPACE
+b61774019e8c91c245cacff81e126b76 *R/apply.ctoc.R
+668b5299ea643d666405d7caed57570d *R/apply.tbin.R
+6102268f32dacbf9c7e3be97c5589edc *R/ctoc.R
+c412d19ad147b165bd2e77b3830299af *R/tbin.R
+4b5bce4817ae69b2496051c2484152d0 *R/transformation.R
+35d3d936855ac287391d6a71d0ff7a9b *man/apply.ctoc.Rd
+596f9e5acea9275f28c3c83ab5a6bb5d *man/apply.tbin.Rd
+5d75cf0e12decf50976b84bb7a362fdd *man/corkscrew-package.Rd
+f045f160da522090c765f2aa0f9e2919 *man/ctoc.Rd
+696a0e1368b9e6f2c35d4010fc7d3c20 *man/tbin.Rd
+f8bd2d21bd0ad8295334d03a7437aa71 *man/transformation.Rd

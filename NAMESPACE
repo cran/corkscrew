@@ -1,0 +1,8 @@
+exportPattern("^[^\\.]")
+import(RColorBrewer)
+import(ggplot2)
+import(gplots)
+import(igraph)
+importFrom("grDevices", "colorRampPalette", "devAskNewPage")
+importFrom("stats", "aggregate", "as.formula", "cor", "shapiro.test",
+             "t.test", "var", "wilcox.test")
